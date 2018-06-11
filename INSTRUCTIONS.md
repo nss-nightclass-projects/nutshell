@@ -14,8 +14,16 @@ You will be utilizing all of the skills and concepts that you've learned up to t
 1. Modular code with Browserify
 1. Relational data
 
-To start you off, here's an example of what the resources in your API should look like once it's populated with some data from your application.
-
+## Firebase
+Your team should have 1 firebase project that each memeber is added to as owners.  Team leads will create the firebase project and add the rest of their team in.  Your firebase should have the following collections:
+```
+/users
+/articles
+/events
+/tasks
+/friends
+/messages
+```
 ### Users
 
 ```json
