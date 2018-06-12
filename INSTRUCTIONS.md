@@ -41,8 +41,8 @@ Each collection should have data in the following structure:
 {
     "userUid": "5ykBb0xyadPZLgH4EPO4i88HIql2",
     "message": "What's up?",
-    "timestamp":1528763298535,
-    "isEdited":true
+    "timestamp": 1528763298535,
+    "isEdited": true
 }
 ```
 
@@ -63,8 +63,8 @@ Each collection should have data in the following structure:
 {
     "userUid": "5ykBb0xyadPZLgH4EPO4i88HIql2",
     "friendUid": "gH4EPO4i88HIql25ykBb0xyadPZL",
-    "isAccepted":true,
-    "isPending":false
+    "isAccepted": true,
+    "isPending": false
 }
 ```
 
@@ -74,7 +74,7 @@ Each collection should have data in the following structure:
 {
     "userUid": "5ykBb0xyadPZLgH4EPO4i88HIql2",
     "task": "Take out garbage",
-    "isCompleted":true
+    "isCompleted": true
 }
 ```
 
@@ -84,8 +84,8 @@ Each collection should have data in the following structure:
 {
     "userUid": "5ykBb0xyadPZLgH4EPO4i88HIql2",
     "event": "Bonfire at the beach",
-    "startDate":1528763298535,
-    "location":"Ocean Beach"
+    "startDate": 1528763298535,
+    "location": "Ocean Beach"
 }
 ```
 
