@@ -97,10 +97,11 @@ Once a team member has claimed a module they are responsible for writing EVER SI
 There should be NO gitcidents because each team member should be working in a folder named after their module.  For example if I am working on the tasks module I would have a file structure like:
 
 ```js
-- javascripts
-  - tasks
-    - main.js
-    - events.js
+- javascripts/
+  - main.js
+  - tasks/
+    - taskMain.js
+    - taskEvents.js
 ```
 
 Your team will need to closely collaborate on authentication and determining how to pull together all the modules to display them on the dashboard.
