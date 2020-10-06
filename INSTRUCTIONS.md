@@ -11,7 +11,7 @@ You will be utilizing all of the skills and concepts that you've learned up to t
 1. CSS
 1. Handling user events
 1. Data entry/editing
-1. Modular code with Browserify
+1. Modular code with Webpack
 1. Relational data
 
 ## Firebase
